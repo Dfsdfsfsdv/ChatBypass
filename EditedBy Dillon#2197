@@ -9,7 +9,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 })
 
 print(
-    "'ass'", "'asshole'", "'bitch'", "'cock'", "'cunt'", "'dick'", "'dyke'", "'faggot'", "'fuck'", "'gay'", "'gaylord'", "'kike'", "'motherfucker'", "'nigga'", "'nigger'", "'piss'", "'penis'", "'pussy'", "'shit'", "'slut'", "'whore'", "'discord'", "'kys'", "'kill'", "'fuck you'", "'slave'", "'whip'", "'hitler'", "'beaner'", "'boob'", "'boobs'", "'cum'", "'sex'", "'twat'", "'wanker'", "'dickhead'")
+    "'ass'", "'asshole'", "'bitch'", "'cock'", "'cunt'", "'dick'", "'dyke'", "'faggot'", "'fuck'", "'gay'", "'gaylord'", "'kike'", "'motherfucker'", "'nigga'", "'nigger'", "'piss'", "'penis'", "'pussy'", "'shit'", "'slut'", "'whore'", "'discord'", "'kys'", "'kill'", "'fuck you'", "'slave'", "'whip'", "'hitler'", "'beaner'", "'boob'", "'boobs'", "'cum'", "'sex'", "'twat'", "'wanker'", "'dickhead'", "'stfu'")
 
 local Bypasses = {
     ["ass"] = "as{{aieixzvzx:s}}",
@@ -47,7 +47,8 @@ local Bypasses = {
     ["sex"] = "se{{aieixzvzx:x}}",
     ["twat"] = "t{{aieixzvzx:wat}}",
     ["wanker"] = "wa{{aieixzvzx:nker}}",
-    ["dickhead"] = "dic{{aieixzvzx:khead}}"
+    ["dickhead"] = "dic{{aieixzvzx:khead}}",
+    ["stfu"] = "st{{aieixzvzx:fu}}"
 }
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
